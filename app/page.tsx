@@ -1340,7 +1340,7 @@ useEffect(() => {
         </div>
 
         <p className="mono mt-5 text-center text-[9px] text-gray-500">
-          © {new Date().getFullYear()} ANMOL SHARMA. ALL RIGHTS RESERVED.
+          © 2026 ANMOL SHARMA. ALL RIGHTS RESERVED.
         </p>
       </footer>
     </main>
